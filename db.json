@@ -43,6 +43,50 @@
           "comment": "Good headphones, but a bit uncomfortable for long periods of use."
         }
       ]
-    }
+    },
+{
+      "id": 3,
+      "name": "Smartphone",
+      "description": "High-end smartphone with OLED display and 5G connectivity.",
+      "price": 1199.99,
+      "image": "https://example.com/smartphone.jpg",
+      "category": "Electronics",
+      "brand": "Samsung",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "johndoe",
+          "rating": 5,
+          "comment": "Awesome phone, love the camera and 5G speed!"
+        },
+        {
+          "username": "janedoe",
+          "rating": 4,
+          "comment": "Great phone, but a bit pricey."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Sneakers",
+      "description": "Comfortable and stylish sneakers with breathable mesh upper.",
+      "price": 89.99,
+      "image": "https://example.com/sneakers.jpg",
+      "category": "Fashion",
+      "brand": "Nike",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "johndoe",
+          "rating": 5,
+          "comment": "Best sneakers I've ever owned, super comfy and look great!"
+        },
+        {
+          "username": "janedoe",
+          "rating": 5,
+          "comment": "Love these sneakers, perfect for running and working out."
+        }
+      ]
+    },
   ]
 }
