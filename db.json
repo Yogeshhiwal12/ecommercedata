@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "description": "High performance laptop with Intel Core i7 processor and NVIDIA graphics card.",
+      "price": 999.99,
+      "image": "https://example.com/laptop.jpg",
+      "category": "Electronics",
+      "brand": "Dell",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "username": "johndoe",
+          "rating": 5,
+          "comment": "Great laptop, fast and reliable!"
+        },
+        {
+          "username": "janedoe",
+          "rating": 4,
+          "comment": "Good laptop, but battery life could be better."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Headphones",
+      "description": "Wireless noise-cancelling headphones with 40-hour battery life.",
+      "price": 149.99,
+      "image": "https://example.com/headphones.jpg",
+      "category": "Electronics",
+      "brand": "Sony",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "username": "johndoe",
+          "rating": 5,
+          "comment": "Best headphones I've ever owned, great sound quality and noise-cancelling."
+        },
+        {
+          "username": "janedoe",
+          "rating": 4,
+          "comment": "Good headphones, but a bit uncomfortable for long periods of use."
+        }
+      ]
+    }
+  ]
+}
